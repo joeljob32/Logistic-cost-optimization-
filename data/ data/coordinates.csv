@@ -1,0 +1,9 @@
+node,type,x,y
+WH_A,warehouse,10,20
+WH_B,warehouse,50,15
+WH_C,warehouse,80,40
+Zone_1,destination,20,60
+Zone_2,destination,40,70
+Zone_3,destination,65,65
+Zone_4,destination,85,75
+Zone_5,destination,55,85
